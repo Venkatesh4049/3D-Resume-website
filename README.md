@@ -2,6 +2,8 @@
 
 This project is a 3D interactive resume created using the Blend4Web addon for Blender. It showcases my skills, experience, and projects in a unique and engaging way.
 
+Check the 3D resume [here](https://venkatesh-a-m-3d-resume.netlify.app/)
+
 ## Features
 
 - **Interactive 3D model:** Navigate through different sections of the resume using an interactive 3D interface.
