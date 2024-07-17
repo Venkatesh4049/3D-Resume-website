@@ -29,7 +29,7 @@ To run this project locally, you need to have the following installed:
 2. **Open a project in Blender:**
 
    - Open Blender and enable the Blend4Web addon if it's not already enabled.
-   - Create the `.blend` with your own project or open the `.blend` file located in the repository.
+   - Create the `.blend` with your own project.
 
 3. **Export the project using Blend4Web:**
 
